@@ -4,10 +4,10 @@ body {
 }
 
 .logo { 
-         background: url("/path") no-repeat; 
-         width: 100px; 
-         height: 100px; 
-         display: block; 
+         background: url("/path") no-repeat;  
+         height: 90px;
+         width: 90px;
+         display: flex; 
          text-indent: -9999px;
 }
 
