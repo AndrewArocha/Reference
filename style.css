@@ -3,6 +3,14 @@ body {
     font-family: Poppins, Sans-serif;
 }
 
+.logo { 
+         background: url("/path") no-repeat; 
+         width: 100px; 
+         height: 100px; 
+         display: block; 
+         text-indent: -9999px;
+}
+
 .zone {
     /*padding:30px 50px;*/
     cursor:pointer;
