@@ -74,6 +74,15 @@ a {
     justify-content: center;
 }
 
+.container2 {
+    /*show heigh: auto*/
+    height: 70vh; 
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-rows: auto auto;
+}
+
 .cover {
     width: 30rem;
 }
