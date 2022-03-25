@@ -80,7 +80,7 @@ a {
     display: grid;
     align-items: center;
     justify-content: center;
-    grid-template-rows: auto auto;
+    grid-template-columns: auto auto;
 }
 
 .cover {
